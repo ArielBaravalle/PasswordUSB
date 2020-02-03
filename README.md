@@ -29,8 +29,12 @@ You can save in EEPROM mempry six users and paswords and can modify this troung 
   
   BTN 2 ANF AFTER BTN 1 : text 6
   
+# Hardware:
+- Arduino Leaonardo Mini o USB board:
+<image src=https://github.com/ArielBaravalle/PasswordUSB/blob/master/IMAGES/leo1.jpg > <image src=https://github.com/ArielBaravalle/PasswordUSB/blob/master/IMAGES/leo2.jpg >
+- single switch 
+  <image src=https://github.com/ArielBaravalle/PasswordUSB/blob/master/IMAGES/button.jpg >
+    
   
-  
-  
-Saludos
+Saludos / Regards
 Ariel Baravalle
