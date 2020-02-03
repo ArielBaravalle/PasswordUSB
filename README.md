@@ -12,8 +12,6 @@ You can save in EEPROM mempry six users and paswords and can modify this troung 
 - Flash the chode in a Arduino Leonardo using the Arduino IDE  and open o Serial Console to the port COMx  and 115200 baudios,  press H  and you can see a help of the options to start to save your pass and users in the memory.
 
 
-
-
 # How to use:
 
 - When plug the leonardo in your computer USB ,  this autodetect a HID ( keybord ) ,  this don't afect to the normal use of your keyboard.
@@ -27,3 +25,5 @@ You can save in EEPROM mempry six users and paswords and can modify this troung 
   BTN 2 ANF AFTER BTN 1 : text 6
   
   
+Saludos
+Ariel Baravalle
