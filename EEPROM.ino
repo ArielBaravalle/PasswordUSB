@@ -46,12 +46,12 @@ unsigned int EEPROMReadInt(int p_address)
 
 void ResetFactory(void){
 
-  String txt1="!11Cordoba";
-  String txt2="ohpabaravalle !11Cordoba";
-  String txt3="!14Cordoba";
-  String txt4="ariel.edu.baravalle@dxc.com !14Cordoba";
-  String txt5="8Cordoba8Cordoba";
-  String txt6="abaravalle2 esdxd@2bAnmh(ypv";
+  String txt1="Pass1";
+  String txt2="user1	Pass1";
+  String txt3="Pass2";
+  String txt4="user2	Pass2";
+  String txt5="Pass3";
+  String txt6="Pass4";
   
   Serial.println("Reset Factory!" );
   // grabo los largos de los string a 1
