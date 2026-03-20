@@ -32,6 +32,6 @@ You can save in EEPROM mempry six users and paswords and can modify this troung 
   <br>
   <image src=https://github.com/ArielBaravalle/PasswordUSB/blob/master/IMAGES/button.jpg >
     
-  
+PD: The firmware is in Spanish, but you can easily change the language of the text.
 Saludos / Regards
 Ariel Baravalle
